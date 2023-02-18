@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @enriquejoseap
-- 👀 I’m interested in gaming development and mobile apps development
+- 👀 I’m interested in gaming development and ai development
 - 🌱 I’m currently learning both of above
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 -   Twitter: @enriquejoseap
 -   Instagram: @enriquejoseap
--   
+-   email: enriquejoseap@gmail.com
 
 <!---
 enriquejoseap/enriquejoseap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
