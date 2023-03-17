@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enrijap
+- 👋 Hi, I’m @enriquejoseap
 - 👀 I’m interested in gaming development and ai development
 - 🌱 I’m currently learning both of above
 - 💞️ I’m looking to collaborate on ...
