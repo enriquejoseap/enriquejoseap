@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning both of above
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
--   Twitter: @enrijap
--   Instagram: @enrijap
+-   Twitter: @enriquejoseap
+-   Instagram: @enriquejoseap
 -   email: enriquejoseap@gmail.com
 
 <!---
