@@ -1,23 +1,13 @@
-- 👋 Hi, I’m @enriquejoseap
-- 👀 I’m interested in gaming development and ai development
-- 🌱 I’m currently learning both of above
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
--   Twitter: @enriquejoseap
--   Instagram: @enriquejoseap
--   email: enriquejoseap@gmail.com
-
 <!---
-enrijap/enriquejoseap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+enriquejoseap/enriquejoseap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-# ![https://mouredev.com](https://avatars.githubusercontent.com/u/81612730?v=4) Enrique Albarran
+# Enrique Albarran
 ### Ingeniero de sistemas - Web developer
 
 
-## Tecnologías:
-# 💻 Tech Stack:
+# Tecnologías:
 
 ### Lenguajes
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -45,17 +35,14 @@ You can click the Preview link to take a look at your changes.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-# 📊 GitHub Stats:
 Y alguna más...
 
-## Encuéntrame en:
+# Contacto:
 
 [![YouTube](https://img.shields.io/badge/YouTube-enriquejoseap-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/enriquejoseap)
-
 [![Discord](https://img.shields.io/badge/Discord-enriquejoseap-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://enriquejoseap.com/discord)
-</br>
 [![Twitter](https://img.shields.io/badge/Twitter-@enriquejoseap-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/enriquejoseap)
-[![Instagram](https://img.shields.io/badge/Instagram-@enriquejoseap-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![Instagram](https://img.shields.io/badge/Instagram-@enriquejoseap-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/enriquejoseap)
 [![TikTok](https://img.shields.io/badge/TikTok-@enriquejoseap-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@enriquejoseap)
 [![Facebook](https://img.shields.io/badge/Facebook-@enriquejoseap-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/enriquejoseap)
 </br>
