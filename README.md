@@ -37,12 +37,13 @@ You can click the Preview link to take a look at your changes.
 
 Y alguna más...
 
-# Contacto:
+# Encuéntrame:
 
+[![Instagram](https://img.shields.io/badge/Instagram-@enriquejoseap-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/enriquejoseap)
+[![Twitter](https://img.shields.io/badge/Twitter-@enriquejoseap-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/enriquejoseap)
+[![Facebook](https://img.shields.io/badge/Facebook-@enriquejoseap-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/enriquejoseap)
 [![YouTube](https://img.shields.io/badge/YouTube-enriquejoseap-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/enriquejoseap)
 [![Discord](https://img.shields.io/badge/Discord-enriquejoseap-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://enriquejoseap.com/discord)
-[![Twitter](https://img.shields.io/badge/Twitter-@enriquejoseap-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/enriquejoseap)
-[![Instagram](https://img.shields.io/badge/Instagram-@enriquejoseap-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/enriquejoseap)
 [![TikTok](https://img.shields.io/badge/TikTok-@enriquejoseap-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@enriquejoseap)
-[![Facebook](https://img.shields.io/badge/Facebook-@enriquejoseap-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/enriquejoseap)
+
 </br>
